@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./header.css";
 
 class Header extends Component {
   constructor(props) {
@@ -16,9 +17,10 @@ class Header extends Component {
       const gameTime = utc + 3600000 * offset;
       const serverTime = new Date(gameTime);
       this.setState({
-        serverTime: serverTime.toLocaleTimeString([], {
+        serverTime: serverTime.toLocaleTimeString("en-US", {
           hour: "2-digit",
-          minute: "2-digit"
+          minute: "2-digit",
+          second: "2-digit"
         })
       });
     });
@@ -29,7 +31,7 @@ class Header extends Component {
       <div className="header">
         <div className="navigation" />
         <div className="server-container">
-          <div className="server-time">{this.state.serverTime}</div>
+          <span className="server-time">{this.state.serverTime}</span>
         </div>
       </div>
     );

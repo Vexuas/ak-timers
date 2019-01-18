@@ -1,0 +1,50 @@
+.header {
+  height: 60px;
+}
+
+.navigation {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: black;
+  z-index: 10;
+}
+
+.server-container {
+  display: grid;
+  position: relative;
+  top: -150px;
+  background-color: #404040;
+  height: 520px;
+  width: 1440px;
+  z-index: 1;
+  background-image: url("./image.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  grid-template-rows: 180px 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+
+.server-time {
+  opacity: 0.9;
+  padding: 5px 5px;
+  border-radius: 10px 10px 10px 10px;
+  margin: auto;
+  background-color: black;
+  display: block;
+  width: 300px;
+  font-family: "Nunito", sans-serif;
+  font-weight: bolder;
+  letter-spacing: 5px;
+  font-size: 2.1em;
+  line-height: 97px;
+  grid-area: 3/1/5/3;
+  text-align: center;
+  z-index: 1;
+  color: white;
+}
