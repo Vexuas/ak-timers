@@ -14,7 +14,40 @@
   background-color: black;
   z-index: 10;
 }
-
+#mainTitle {
+  display: block;
+  float: left;
+  margin-left: 40px;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1.8em;
+  line-height: 55px;
+  color: #66b2ff;
+}
+#serverTitle {
+  display: block;
+  float: right;
+  margin-right: 5px;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1.4em;
+  color: white;
+  line-height: 60px;
+}
+#serverTime {
+  height: 40px;
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: right;
+  letter-spacing: 1px;
+  margin-right: 40px;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 1.4em;
+  color: white;
+  line-height: 40px;
+  background-color: #252424;
+  border-radius: 8px 8px 8px 8px;
+  padding: 0px 5px;
+}
 .server-container {
   display: grid;
   position: relative;

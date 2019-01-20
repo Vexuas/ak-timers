@@ -29,10 +29,12 @@ class Header extends Component {
   render() {
     return (
       <div className="header">
-        <div className="navigation" />
-        <div className="server-container">
-          <span className="server-time">{this.state.serverTime}</span>
+        <div className="navigation">
+          <span id="mainTitle">ak-timers</span>
+          <span id="serverTime">{this.state.serverTime}</span>
+          <span id="serverTitle">Server Time </span>
         </div>
+        <div className="server-container" />
       </div>
     );
   }
