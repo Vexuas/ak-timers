@@ -31,10 +31,13 @@ class Header extends Component {
       <div className="header">
         <div className="navigation">
           <span id="mainTitle">ak-timers</span>
-          <span id="serverTime">{this.state.serverTime}</span>
-          <span id="serverTitle">Server Time </span>
+          <span className="server" id="serverTime">
+            {this.state.serverTime}
+          </span>
+          <span className="server" id="serverTitle">
+            Server Time{" "}
+          </span>
         </div>
-        <div className="server-container" />
       </div>
     );
   }

@@ -4,9 +4,11 @@
 
 .navigation {
   position: fixed;
+  min-width: 500px;
   top: 0;
   left: 0;
   right: 0;
+  font-family: "Open Sans Condensed", sans-serif;
   height: 60px;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -18,66 +20,37 @@
   display: block;
   float: left;
   margin-left: 40px;
-  font-family: "Open Sans Condensed", sans-serif;
   font-size: 1.8em;
   line-height: 55px;
   color: #66b2ff;
 }
-#serverTitle {
+.server {
   display: block;
   float: right;
-  margin-right: 5px;
-  font-family: "Open Sans Condensed", sans-serif;
   font-size: 1.4em;
   color: white;
+}
+#serverTitle {
+  margin-right: 5px;
   line-height: 60px;
 }
 #serverTime {
   height: 40px;
-  display: block;
   margin-top: 10px;
   margin-bottom: 10px;
-  float: right;
   letter-spacing: 1px;
   margin-right: 40px;
-  font-family: "Open Sans Condensed", sans-serif;
-  font-size: 1.4em;
-  color: white;
   line-height: 40px;
   background-color: #252424;
   border-radius: 8px 8px 8px 8px;
   padding: 0px 5px;
 }
-.server-container {
-  display: grid;
-  position: relative;
-  top: -150px;
-  background-color: #404040;
-  height: 520px;
-  width: 1440px;
-  z-index: 1;
-  background-image: url("./image.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  grid-template-rows: 180px 1fr 1fr 1fr;
-  grid-template-columns: 1fr 1fr;
-}
 
-.server-time {
-  opacity: 0.9;
-  padding: 5px 5px;
-  border-radius: 10px 10px 10px 10px;
-  margin: auto;
-  background-color: black;
-  display: block;
-  width: 300px;
-  font-family: "Nunito", sans-serif;
-  font-weight: bolder;
-  letter-spacing: 5px;
-  font-size: 2.1em;
-  line-height: 97px;
-  grid-area: 3/1/5/3;
-  text-align: center;
-  z-index: 1;
-  color: white;
+@media only screen and (min-width: 2000px) {
+  .server {
+    font-size: 1vw;
+  }
+  #mainTitle {
+    font-size: 1vw;
+  }
 }
