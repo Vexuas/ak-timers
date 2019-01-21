@@ -12,6 +12,8 @@
   height: 60px;
   -webkit-box-align: center;
   -ms-flex-align: center;
+  -webkit-align-items: center;
+  -moz-box-align: center;
   align-items: center;
   background-color: black;
   z-index: 10;
