@@ -4,7 +4,7 @@ import "./timer.css";
 class Timer extends Component {
   render() {
     return (
-      <article>
+      <article className="timer">
         <a href={this.props.link}>
           <h1>{this.props.timerTitle}</h1>
           <img src={this.props.banner} alt={this.props.desc} />
