@@ -3,6 +3,10 @@ import "./timers.css";
 import Timer from "./timer.js";
 import FishKing from "./fishking.json";
 import Arch from "./archaeology.json";
+import Wb from "./worldboss.json";
+import Gh from "./gheidolons.json";
+import St from "./skytower.json";
+import cards from "./cardrangers.json";
 
 class Timers extends Component {
   render() {
@@ -19,6 +23,30 @@ class Timers extends Component {
           timerTitle={Arch.title}
           banner={Arch.banner}
           desc={Arch.desc}
+        />
+        <Timer
+          link={Wb.link}
+          timerTitle={Wb.title}
+          banner={Wb.banner}
+          desc={Wb.desc}
+        />
+        <Timer
+          link={Gh.link}
+          timerTitle={Gh.title}
+          banner={Gh.banner}
+          desc={Gh.desc}
+        />
+        <Timer
+          link={St.link}
+          timerTitle={St.title}
+          banner={St.banner}
+          desc={St.desc}
+        />
+        <Timer
+          link={cards.link}
+          timerTitle={cards.title}
+          banner={cards.banner}
+          desc={cards.desc}
         />
       </div>
     );

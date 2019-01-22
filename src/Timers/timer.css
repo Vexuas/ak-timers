@@ -13,6 +13,24 @@ img {
   transition: transform 0.3s cubic-bezier(0, 0, 0, 2), -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
   transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
     -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
+  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
+    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
 }
 h1 {
   margin-bottom: 1%;
@@ -52,7 +70,9 @@ h1 {
 .timer:hover h1 {
   color: #66b2ff;
 }
-
+.timer:last-of-type {
+  margin-bottom: 4%;
+}
 @media only screen and (max-width: 800px) {
   .timer {
     font-size: 2vw;
