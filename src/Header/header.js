@@ -30,9 +30,14 @@ class Header extends Component {
     return (
       <div className="header">
         <div className="navigation">
-          <span id="mainTitle">ak-timers</span>
+          <span id="mainTitle" style={this.props.color}>
+            ak-timers
+          </span>
           <span className="server" id="serverTime">
             {this.state.serverTime}
+          </span>
+          <span id="timerName" style={this.props.timerColor}>
+            {this.props.timerName}
           </span>
           <span className="server" id="serverTitle">
             Server Time{" "}
