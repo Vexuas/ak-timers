@@ -2,12 +2,12 @@ import React, { Component } from "react";
 import Header from "../Header/header.js";
 import { link } from "./home.json";
 
-class Skytower extends Component {
+class WorldBoss extends Component {
   render() {
     return (
-      <div id="skyTower">
+      <div id="worldBoss">
         <Header
-          timerName="Raids"
+          timerName="World Boss"
           timerColor={{ color: "#66b2ff" }}
           link={link}
         />
@@ -16,4 +16,4 @@ class Skytower extends Component {
   }
 }
 
-export default Skytower;
+export default WorldBoss;

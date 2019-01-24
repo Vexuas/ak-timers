@@ -27,6 +27,9 @@
   font-size: 1.8em;
   line-height: 55px;
   padding-right: 20px;
+  -webkit-transition: color 0.3s linear;
+  -o-transition: color 0.3s linear;
+  transition: color 0.3s linear;
 }
 #mainTitle:after {
   content: "";
@@ -36,6 +39,9 @@
   right: 0;
   top: 8px;
   background-color: #66b2ff;
+}
+#mainTitle:hover {
+  color: #66b2ff;
 }
 #timerName {
   display: block;

@@ -11,26 +11,6 @@ img {
   -o-transition: transform 0.3s cubic-bezier(0, 0, 0, 2);
   transition: transform 0.3s cubic-bezier(0, 0, 0, 2);
   transition: transform 0.3s cubic-bezier(0, 0, 0, 2), -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
-  transition: transform 0.3s cubic-bezier(0, 0, 0, 2),
-    -webkit-transform 0.3s cubic-bezier(0, 0, 0, 2);
 }
 h1 {
   margin-bottom: 1%;
