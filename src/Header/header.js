@@ -1,18 +1,28 @@
 import React, { Component } from "react";
 import "./header.css";
 
+const weekday = new Array(7);
+weekday[0] = "Sunday";
+weekday[1] = "Monday";
+weekday[2] = "Tuesday";
+weekday[3] = "Wednesday";
+weekday[4] = "Thursday";
+weekday[5] = "Friday";
+weekday[6] = "Saturday";
+
 class Header extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      serverTime: null
+      serverTime: null,
+      serverDay: null
     };
   }
   //Server Time code
   componentDidMount() {
     setInterval(() => {
       const d = new Date();
-      const utc = d.getTime() + d.getTimezoneOffset() * 600000;
+      const utc = d.getTime() + d.getTimezoneOffset() * 60000;
       const offset = -5;
       const gameTime = utc + 3600000 * offset;
       const serverTime = new Date(gameTime);
@@ -21,7 +31,8 @@ class Header extends Component {
           hour: "2-digit",
           minute: "2-digit",
           second: "2-digit"
-        })
+        }),
+        serverDay: weekday[serverTime.getDay()]
       });
     });
   }
@@ -35,14 +46,11 @@ class Header extends Component {
               ak-timers
             </span>
           </a>
-          <span className="server" id="serverTime">
-            {this.state.serverTime}
+          <span className="server" id="serverTime" title="Server Time">
+            {this.state.serverDay} | {this.state.serverTime}
           </span>
           <span id="timerName" style={this.props.timerColor}>
             {this.props.timerName}
-          </span>
-          <span className="server" id="serverTitle">
-            Server Time{" "}
           </span>
         </div>
       </div>

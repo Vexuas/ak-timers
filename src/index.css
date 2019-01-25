@@ -7,9 +7,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./Header/image.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 code {
