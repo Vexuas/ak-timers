@@ -10,8 +10,8 @@
   flex-wrap: wrap;
   margin: 6% 4%;
   min-width: 80vw;
-  background-color: rgb(32, 32, 32, 0.95);
-  border-radius: 15px 15px 15px 15px;
+  background-color: rgba(17, 17, 17, 0.95);
+  border-radius: 10px 10px 10px 10px;
 }
 
 @media only screen and (max-width: 800px) {

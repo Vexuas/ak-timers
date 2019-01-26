@@ -1,6 +1,8 @@
 import React, { Component } from "react";
-import Header from "../Header/header.js";
-import { link } from "./home.json";
+import Header from "../../Header/header.js";
+import { link } from "../home.json";
+import Countdown from "./raidcountdown.js";
+import RaidTable from "./table.js";
 
 class Skytower extends Component {
   render() {
@@ -11,6 +13,8 @@ class Skytower extends Component {
           timerColor={{ color: "#66b2ff" }}
           link={link}
         />
+        <Countdown />
+        <RaidTable />
       </div>
     );
   }

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Header from "../Header/header.js";
-import { link } from "./home.json";
+import Header from "../../Header/header.js";
+import { link } from "../home.json";
 
 class Archaeology extends Component {
   render() {

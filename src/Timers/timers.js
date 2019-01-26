@@ -1,12 +1,12 @@
 import React, { Component } from "react";
 import "./timers.css";
 import Timer from "./timer.js";
-import FishKing from "./fishking.json";
-import Arch from "./archaeology.json";
-import Wb from "./worldboss.json";
-import Gh from "./gheidolons.json";
-import St from "./skytower.json";
-import cards from "./cardrangers.json";
+import FishKing from "./FishKings/fishking.json";
+import Arch from "./Archaeology/archaeology.json";
+import Wb from "./WorldBosses/worldboss.json";
+import Gh from "./GuildEidolons/gheidolons.json";
+import St from "./Raids/skytower.json";
+import cards from "./CardRangers/cardrangers.json";
 
 class Timers extends Component {
   render() {
