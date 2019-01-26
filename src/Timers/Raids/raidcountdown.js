@@ -70,7 +70,7 @@ class RaidCountdown extends Component {
           </div>
           <div className="timerBg">888:88:88</div>
         </div>
-        <div className="raids">leggo</div>
+        <div className="raids">Ongoing/Upcoming</div>
       </div>
     );
   }
