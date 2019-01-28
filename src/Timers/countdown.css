@@ -23,9 +23,7 @@
 .timerContainer {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: 1fr;
   grid-template-columns: 1fr;
-  -ms-grid-rows: 1fr;
   grid-template-rows: 1fr;
   text-align: right;
   margin-top: 2%;
@@ -37,13 +35,7 @@
   border-radius: 5px 5px 5px 5px;
   border: 0.5px solid #535353;
 }
-.timerContainer > *:nth-child(1) {
-  -ms-grid-row: 1;
-  -ms-grid-column: 1;
-}
 .timerCountdown {
-  -ms-grid-row: 1;
-  -ms-grid-column: 1;
   grid-area: 1/1/1/1;
   width: 95%;
   font-size: 12vh;
@@ -56,8 +48,6 @@
   z-index: 1;
 }
 .timerBg {
-  -ms-grid-row: 1;
-  -ms-grid-column: 1;
   grid-area: 1/1/1/1;
   position: relative;
   width: 95%;
