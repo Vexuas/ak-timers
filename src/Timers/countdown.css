@@ -13,69 +13,47 @@
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   width: 80%;
-  height: 20vh;
+  height: 15vh;
   margin-top: 5%;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 3%;
+  margin-bottom: 50px;
   font-family: "Open Sans", sans-serif;
+  text-align: right;
 }
 .timerContainer {
   display: -ms-grid;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
-  text-align: right;
-  margin-top: 2%;
   margin-left: auto;
   margin-right: auto;
-  min-height: 20vh;
-  padding-right: 2%;
   background-color: rgb(24, 20, 20);
   border-radius: 5px 5px 5px 5px;
+  letter-spacing: 3px;
   border: 0.5px solid #535353;
+  line-height: 15vh;
+  font-family: "Digital Dismay";
+  padding-right: 3%;
+  padding-left: 3%;
+  min-height: 15vh;
+  font-size: 10vh;
 }
 .timerCountdown {
   grid-area: 1/1/1/1;
-  width: 95%;
-  font-size: 12vh;
-  font-family: "Digital Dismay";
-  color: white;
-  letter-spacing: 3px;
-  line-height: 15vh;
-  padding: 4% 3% 4% 5%;
-  min-height: 20vh;
-  z-index: 1;
+  color: #33FF33;
+  z-index: 1
 }
 .timerBg {
   grid-area: 1/1/1/1;
   position: relative;
-  width: 95%;
   color: #404040;
-  font-size: 12vh;
-  font-family: "Digital Dismay";
-  letter-spacing: 3px;
-  padding: 4% 3% 4% 5%;
-  line-height: 15vh;
-  min-height: 20vh;
   opacity: 0.15;
 }
 
 @media only screen and (max-width: 800px) {
   .timerTemplate {
     margin-top: 10%;
-    height: 40vh;
-  }
-  .timerContainer {
-    max-height: 20vh;
-    padding-bottom: 6%;
-  }
-  .timerCountdown {
-    font-size: 20vh;
-    padding: 8% 3% 8% 5%;
-  }
-  .timerBg {
-    font-size: 20vh;
-    padding: 8% 3% 8% 5%;
+    height: 15vh;
   }
 }
