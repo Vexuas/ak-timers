@@ -1,6 +1,9 @@
 .timerTable {
+  display: -ms-grid;
   display: grid;
+  -ms-grid-rows: 15% repeat(1fr, 9);
   grid-template-rows: 15% repeat(9, 1fr);
+  -ms-grid-columns: 50% 1fr 1fr;
   grid-template-columns: 50% 1fr 1fr;
   font-size: 1.6vw;
   font-family: "Open Sans", sans-serif;
@@ -13,9 +16,15 @@
   cursor: default;
 }
 .raidTitle {
+  display: -ms-grid;
   display: grid;
+  -ms-grid-columns: 50% 1fr 1fr;
   grid-template-columns: 50% 1fr 1fr;
+  -ms-grid-rows: 1fr;
   grid-template-rows: 1fr;
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 3;
   grid-area: 1/1/1/4;
   background-color: #202020;
   font-family: "Indie Flower", cursive;
@@ -25,145 +34,225 @@
   border-bottom: none;
 }
 #raidName {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
   grid-area: 1/1/1/1;
 }
 
 #raidHour {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
   grid-area: 1/2/1/2;
 }
 
 #raidDay {
+  -ms-grid-row: 1;
+  -ms-grid-column: 3;
   grid-area: 1/3/1/3;
 }
 .raidbody {
   font-size: 1vw;
   line-height: 2vw;
+  display: -ms-grid;
   display: grid;
+  -ms-grid-rows: repeat(9, 1fr);
   grid-template-rows: repeat(9, 1fr);
+  -ms-grid-columns: 50% 1fr 1fr;
   grid-template-columns: 50% 1fr 1fr;
+  -ms-grid-row: 2;
+  -ms-grid-row-span: 9;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 3;
   grid-area: 2/1/11/4;
   background-color: white;
   color: black;
   font-family: "Aldrich";
 }
 .skyRealm {
+  -ms-grid-row: 1;
+  -ms-grid-row-span: 3;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 3;
   grid-area: 1/1/4/4;
+  display: -ms-grid;
   display: grid;
+  -ms-grid-columns: 50% 1fr 1fr;
   grid-template-columns: 50% 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   border: 2px solid black;
   border-top: none;
 }
 #grouprealm1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
   grid-area: 1/1/1/1;
   border-bottom: 2px solid black;
 }
 #timerealm1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
   grid-area: 1/2/1/2;
   border: 2px solid black;
   border-top: none;
 }
 #grouprealm2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
   grid-area: 2/1/2/1;
   border-bottom: 2px solid black;
 }
 #timerealm2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 2;
   grid-area: 2/2/2/2;
   border: 2px solid black;
   border-top: none;
 }
 #grouprealm3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 1;
   grid-area: 3/1/3/1;
 }
 #timerealm3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 2;
   grid-area: 3/2/3/2;
   border: 2px solid black;
   border-top: none;
   border-bottom: none;
 }
 #dayrealm {
+  -ms-grid-row: 2;
+  -ms-grid-column: 3;
   grid-area: 2/3/2/3;
 }
 .skyElite {
+  display: -ms-grid;
   display: grid;
+  -ms-grid-row: 4;
+  -ms-grid-row-span: 3;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 3;
   grid-area: 4/1/7/4;
+  -ms-grid-columns: 50% 1fr 1fr;
   grid-template-columns: 50% 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   border: 2px solid black;
   border-top: none;
 }
 #groupest1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
   grid-area: 1/1/1/1;
   border-bottom: 2px solid black;
 }
 #timeest1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
   grid-area: 1/2/1/2;
   border: 2px solid black;
   border-top: none;
 }
 #groupest2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
   grid-area: 2/1/2/1;
   border-bottom: 2px solid black;
 }
 #timeest2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 2;
   grid-area: 2/2/2/2;
   border: 2px solid black;
   border-top: none;
 }
 #groupest3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 1;
   grid-area: 3/1/3/1;
 }
 #timeest3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 2;
   grid-area: 3/2/3/2;
   border: 2px solid black;
   border-top: none;
   border-bottom: none;
 }
 #dayest {
+  -ms-grid-row: 2;
+  -ms-grid-column: 3;
   grid-area: 2/3/2/3;
 }
 .skyTower {
+  display: -ms-grid;
   display: grid;
+  -ms-grid-row: 7;
+  -ms-grid-row-span: 3;
+  -ms-grid-column: 1;
+  -ms-grid-column-span: 3;
   grid-area: 7/1/10/4;
+  -ms-grid-columns: 50% 1fr 1fr;
   grid-template-columns: 50% 1fr 1fr;
+  -ms-grid-rows: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   border: 2px solid black;
   border-top: none;
 }
 #groupst1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 1;
   grid-area: 1/1/1/1;
   border-bottom: 2px solid black;
 }
 #timest1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 2;
   grid-area: 1/2/1/2;
   border: 2px solid black;
   border-top: none;
 }
 #groupst2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 1;
   grid-area: 2/1/2/1;
   border-bottom: 2px solid black;
 }
 #timest2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 2;
   grid-area: 2/2/2/2;
   border: 2px solid black;
   border-top: none;
 }
 #groupst3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 1;
   grid-area: 3/1/3/1;
 }
 #timest3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 2;
   grid-area: 3/2/3/2;
   border: 2px solid black;
   border-top: none;
   border-bottom: none;
 }
 #daytower1 {
+  -ms-grid-row: 1;
+  -ms-grid-column: 3;
   grid-area: 1/3/1/3;
 }
 #daytower2 {
+  -ms-grid-row: 2;
+  -ms-grid-column: 3;
   grid-area: 2/3/2/3;
 }
 #daytower3 {
+  -ms-grid-row: 3;
+  -ms-grid-column: 3;
   grid-area: 3/3/3/3;
 }
 
