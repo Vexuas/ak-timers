@@ -41,14 +41,14 @@
 }
 .timerCountdown {
   grid-area: 1/1/1/1;
-  color: #33FF33;
-  z-index: 1
+  color: #33ff33;
+  z-index: 1;
 }
 .timerBg {
   grid-area: 1/1/1/1;
   position: relative;
   color: #404040;
-  opacity: 0.15;
+  opacity: 0.3;
 }
 
 @media only screen and (max-width: 800px) {

@@ -108,7 +108,7 @@
     padding-right: 10px;
   }
   #mainTitle:after {
-    width: 1px;
+    width: 0.5px;
     height: 60%;
     top: 12px;
   }
