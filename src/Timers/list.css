@@ -1,0 +1,13 @@
+.raids {
+  font-family: "Indie Flower", cursive;
+  text-align: center;
+  margin: auto;
+  color: white;
+  width: 75%;
+  height: 70vh;
+  font-size: 1.8vw;
+  margin-top: 0;
+  margin-bottom: 0;
+  background-color: rgba(17, 17, 17, 0.95);
+  border-radius: 5px 5px 5px 5px;
+}

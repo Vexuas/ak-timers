@@ -1,14 +1,12 @@
 import React, { Component } from "react";
-import "./raidcountdown.css";
+import "./countdown.css";
 
 let currentDay;
 
-class RaidCountdown extends Component {
+class Countdown extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      skyrealmT: 10,
-      skyrealmD: 4,
       hour: null,
       minute: null,
       second: null
@@ -17,12 +15,12 @@ class RaidCountdown extends Component {
   componentDidMount() {
     setInterval(() => {
       const d = new Date();
-      const day = this.state.skyrealmD; // 0-6, Thursday
+      const day = this.props.timerDay; // 0-6, Thursday
       const countertime = new Date(
         d.getFullYear(),
         d.getMonth(),
         d.getDate(),
-        this.state.skyrealmT,
+        this.props.timerHour,
         0,
         0
       ); //10 out of 24 hours = 10am
@@ -63,17 +61,16 @@ class RaidCountdown extends Component {
 
   render() {
     return (
-      <div className="raidTemplate">
+      <div className="timerTemplate">
         <div className="timerContainer">
           <div className="timerCountdown">
             {this.state.hour}:{this.state.minute}:{this.state.second}
           </div>
-          <div className="timerBg">888:88:88</div>
+          <div className="timerBg">{this.props.timerBg}</div>
         </div>
-        <div className="raids">Ongoing/Upcoming</div>
       </div>
     );
   }
 }
 
-export default RaidCountdown;
+export default Countdown;
