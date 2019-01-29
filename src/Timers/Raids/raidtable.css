@@ -1,13 +1,13 @@
 .timerTable {
   display: grid;
-  grid-template-rows: 18% repeat(9, 1fr);
+  grid-template-rows: 12% repeat(9, 1fr);
   grid-template-columns: 50% 1fr 1fr;
   font-family: "Open Sans", sans-serif;
   color: white;
   width: 65%;
   margin: auto;
   text-align: center;
-  margin-top: 4%;
+  margin-top: 180px;
   margin-bottom: 2%;
   cursor: default;
 }
@@ -167,6 +167,7 @@
     grid-template-rows: 15% repeat(9, 1fr);
     font-size: 5vw;
     width: 90%;
+    margin-top: 100px;
   }
   .raidTitle {
     line-height: 10vw;
@@ -182,10 +183,10 @@
     font-size: 3vw;
   }
   .raidTitle {
-    line-height: 6vw;
+    line-height: 5vw;
   }
   .raidbody {
-    font-size: 2vw;
-    line-height: 3vw;
+    font-size: 1.8vw;
+    line-height: 4vw;
   }
 }
