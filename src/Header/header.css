@@ -104,7 +104,7 @@
   }
   #mainTitle {
     font-size: 18px;
-    margin-left: 20px;
+    margin-left: 15px;
     padding-right: 10px;
   }
   #mainTitle:after {
@@ -115,5 +115,8 @@
   #timerName {
     font-size: 18px;
     margin-left: 10px;
+  }
+  #serverTime {
+    margin-right: 5px;
   }
 }

@@ -1,10 +1,10 @@
 .timerTable {
   display: grid;
-  grid-template-rows: 12% repeat(9, 1fr);
+  grid-template-rows: 15% repeat(9, 1fr);
   grid-template-columns: 50% 1fr 1fr;
   font-family: "Open Sans", sans-serif;
   color: white;
-  width: 65%;
+  width: 60%;
   margin: auto;
   text-align: center;
   margin-top: 180px;
@@ -19,7 +19,7 @@
   background-color: #202020;
   font-family: "Indie Flower", cursive;
   font-weight: bold;
-  border: 2px solid black;
+  border: 1px solid black;
   border-bottom: none;
 }
 #raidName {
@@ -47,25 +47,25 @@
   display: grid;
   grid-template-columns: 50% 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #grouprealm1 {
   grid-area: 1/1/1/1;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 #timerealm1 {
   grid-area: 1/2/1/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #grouprealm2 {
   grid-area: 2/1/2/1;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 #timerealm2 {
   grid-area: 2/2/2/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #grouprealm3 {
@@ -73,7 +73,7 @@
 }
 #timerealm3 {
   grid-area: 3/2/3/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
   border-bottom: none;
 }
@@ -85,25 +85,25 @@
   grid-area: 4/1/7/4;
   grid-template-columns: 50% 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #groupest1 {
   grid-area: 1/1/1/1;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 #timeest1 {
   grid-area: 1/2/1/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #groupest2 {
   grid-area: 2/1/2/1;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 #timeest2 {
   grid-area: 2/2/2/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #groupest3 {
@@ -111,7 +111,7 @@
 }
 #timeest3 {
   grid-area: 3/2/3/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
   border-bottom: none;
 }
@@ -123,25 +123,25 @@
   grid-area: 7/1/10/4;
   grid-template-columns: 50% 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #groupst1 {
   grid-area: 1/1/1/1;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 #timest1 {
   grid-area: 1/2/1/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #groupst2 {
   grid-area: 2/1/2/1;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
 }
 #timest2 {
   grid-area: 2/2/2/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
 }
 #groupst3 {
@@ -149,7 +149,7 @@
 }
 #timest3 {
   grid-area: 3/2/3/2;
-  border: 2px solid black;
+  border: 1px solid black;
   border-top: none;
   border-bottom: none;
 }
@@ -164,29 +164,29 @@
 }
 @media only screen and (max-width: 800px) {
   .timerTable {
-    grid-template-rows: 15% repeat(9, 1fr);
-    font-size: 5vw;
-    width: 90%;
+    grid-template-rows: 12% repeat(9, 1fr);
+    font-size: 6vw;
+    width: 95%;
     margin-top: 100px;
   }
   .raidTitle {
-    line-height: 10vw;
+    line-height: 12vw;
   }
   .raidbody {
-    font-size: 2.7vw;
-    line-height: 6vw;
+    font-size: 3vw;
+    line-height: 10vw;
   }
 }
 
 @media only screen and (min-width: 800px) {
   .timerTable {
-    font-size: 3vw;
+    font-size: 2.5vw;
   }
   .raidTitle {
     line-height: 5vw;
   }
   .raidbody {
-    font-size: 1.8vw;
-    line-height: 4vw;
+    font-size: 1.4vw;
+    line-height: 3vw;
   }
 }

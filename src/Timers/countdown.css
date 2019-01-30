@@ -13,7 +13,6 @@
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   width: 80%;
-  height: 15vh;
   margin-top: 5%;
   margin-left: auto;
   margin-right: auto;
@@ -31,13 +30,10 @@
   background-color: rgb(24, 20, 20);
   border-radius: 5px 5px 5px 5px;
   letter-spacing: 3px;
-  border: 0.5px solid #535353;
-  line-height: 15vh;
+  border: 0.5px solid black;
   font-family: "Digital Dismay";
-  padding-right: 3%;
-  padding-left: 3%;
-  min-height: 15vh;
-  font-size: 10vh;
+  padding: 4px 15px 4px 15px;
+  font-size: 5.5vw;
 }
 .timerCountdown {
   grid-area: 1/1/1/1;
@@ -54,6 +50,8 @@
 @media only screen and (max-width: 800px) {
   .timerTemplate {
     margin-top: 10%;
-    height: 15vh;
+  }
+  .timerContainer {
+    font-size: 17vw;
   }
 }
