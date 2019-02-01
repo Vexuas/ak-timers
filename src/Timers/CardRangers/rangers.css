@@ -1,0 +1,73 @@
+.redRanger {
+  grid-area: 1/1/1/4;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.blackRanger {
+  grid-area: 2/1/2/4;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.blueRanger {
+  grid-area: 3/1/3/4;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.yellowRanger {
+  grid-area: 4/1/4/4;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.pinkRanger {
+  grid-area: 5/1/5/4;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.rangerName {
+  grid-area: 1/1/3/1;
+  margin: auto;
+}
+.rangerTime {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-area: 1/2/3/2;
+  border: 1px solid black;
+  border-top: none;
+  border-bottom: none;
+}
+.rangerTime1 {
+  grid-area: 1/1/1/1;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.rangerTime2 {
+  grid-area: 1/2/1/2;
+  border-bottom: 1px solid black;
+}
+.rangerTime3 {
+  grid-area: 2/1/2/1;
+  border-right: 1px solid black;
+}
+.rangerTime4 {
+  grid-area: 2/2/2/2;
+}
+.rangerDay {
+  grid-area: 1/3/3/3;
+  margin: auto;
+}
