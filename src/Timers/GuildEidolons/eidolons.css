@@ -1,0 +1,109 @@
+.kotonoha {
+  grid-area: 1/1/1/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.quelael {
+  grid-area: 2/1/2/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.bel {
+  grid-area: 3/1/3/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.yarngig {
+  grid-area: 4/1/4/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.bahasig {
+  grid-area: 5/1/5/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.tigeuzu {
+  grid-area: 6/1/6/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.vayueli {
+  grid-area: 7/1/7/4;
+  display: grid;
+  grid-template-columns: 25% 45% 30%;
+  grid-template-rows: 1fr 1fr;
+  border: 1px solid black;
+  border-top: none;
+}
+.eido1 {
+  display: grid;
+  grid-template-columns: 35% 65%;
+  width: 70%;
+  grid-template-rows: 1fr;
+  grid-area: 1/1/1/4;
+  border-bottom: 1px solid black;
+}
+.eido2 {
+  display: grid;
+  grid-template-columns: 35% 65%;
+  width: 70%;
+  grid-area: 2/1/2/4;
+  grid-template-rows: 1fr;
+}
+.eido3 {
+  display: grid;
+  grid-template-columns: 35% 65%;
+  width: 70%;
+  grid-template-rows: 1fr;
+  grid-area: 1/1/1/4;
+}
+.eidoName1 {
+  grid-area: 1/1/1/1;
+  margin: auto;
+}
+.eidoName2 {
+  grid-area: 1/1/1/1;
+  margin: auto;
+}
+.eidoTime {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-area: 1/2/1/2;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+.eidoTime1 {
+  grid-area: 1/1/1/1;
+  border-right: 1px solid black;
+}
+.eidoTime2 {
+  grid-area: 1/2/1/2;
+  border-right: 1px solid black;
+}
+.eidoTime3 {
+  grid-area: 1/3/1/3;
+}
+.eidoDay {
+  grid-area: 1/3/3/3;
+  margin: auto;
+}

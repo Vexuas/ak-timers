@@ -3,6 +3,7 @@ import Header from "../../Header/header.js";
 import { link } from "../home.json";
 import Countdown from "../countdown.js";
 import List from "../list.js";
+import EidoTable from "./eidotable.js";
 
 class GuildEidolons extends Component {
   render() {
@@ -15,6 +16,7 @@ class GuildEidolons extends Component {
         />
         <Countdown timerDay={3} timerHour={17} timerBg="88:88:88" />
         <List />
+        <EidoTable />
       </div>
     );
   }
