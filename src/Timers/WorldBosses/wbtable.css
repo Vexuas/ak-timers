@@ -1,0 +1,74 @@
+.wbTable {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 25% 50% 25%;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  margin-top: 180px;
+  margin-bottom: 2%;
+  cursor: default;
+}
+.wbTitle {
+  display: grid;
+  grid-template-columns: 25% 50% 25%;
+  grid-template-rows: 1fr;
+  grid-area: 1/1/1/4;
+  background-color: #202020;
+  font-family: "Indie Flower", cursive;
+  font-weight: bold;
+  border: 1px solid black;
+  border-bottom: none;
+}
+#wbName {
+  grid-area: 1/1/1/1;
+}
+
+#wbHour {
+  grid-area: 1/2/1/2;
+}
+
+#wbDay {
+  grid-area: 1/3/1/3;
+}
+.wbBody {
+  display: grid;
+  grid-template-rows: 0.5fr 0.5fr repeat(3, 1fr);
+  grid-template-columns: 25% 50% 25%;
+  grid-area: 2/1/8/4;
+  background-color: white;
+  color: black;
+  font-family: "Aldrich";
+  width: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+  .wbTable {
+    font-size: 5vw;
+    width: 95%;
+    margin-top: 100px;
+  }
+  .wbTitle {
+    font-size: 4.2vw;
+    line-height: 15vw;
+  }
+  .wbBody {
+    font-size: 2.7vw;
+    line-height: 8vw;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .wbTable {
+    font-size: 2.5vw;
+  }
+  .wbTitle {
+    line-height: 6vw;
+  }
+  .wbBody {
+    font-size: 1.4vw;
+    line-height: 3.2vw;
+  }
+}
