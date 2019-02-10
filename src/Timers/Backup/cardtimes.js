@@ -221,22 +221,22 @@ const cardTimes = [
   },
   {
     id: 44,
-    timerDay: 1,
+    timerDay: 0,
     timerHour: 17
   },
   {
     id: 45,
-    timerDay: 1,
+    timerDay: 0,
     timerHour: 19
   },
   {
     id: 46,
-    timerDay: 1,
+    timerDay: 0,
     timerHour: 21
   },
   {
     id: 47,
-    timerDay: 1,
+    timerDay: 0,
     timerHour: 23
   }
 ];

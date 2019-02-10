@@ -2,7 +2,7 @@ const raidTimes = [
   {
     id: 0,
     timerDay: 4,
-    timerHour: 12
+    timerHour: 10
   },
   {
     id: 1,

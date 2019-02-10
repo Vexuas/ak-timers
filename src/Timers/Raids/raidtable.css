@@ -13,7 +13,7 @@
 }
 .raidTitle {
   display: grid;
-  grid-template-columns: 50% 1fr 1fr;
+  grid-template-columns: 50% 2fr 1fr;
   grid-template-rows: 1fr;
   grid-area: 1/1/1/4;
   background-color: #202020;

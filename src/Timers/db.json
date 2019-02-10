@@ -1,0 +1,2199 @@
+{
+  "eidoAPI": {
+    "eidolons": [
+      {
+        "timerDay": 0,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 1:00 AM",
+        "description": "Vayu | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 1,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Sunday | 1:03 AM",
+        "description": "Vayu | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 12:00 PM",
+        "description": "Eligos | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Sunday | 12:03 PM",
+        "description": "Eligos | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 3:00 PM",
+        "description": "Vayu | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 15,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Sunday | 3:03 PM",
+        "description": "Vayu | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 5:00 PM",
+        "description": "Eligos | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Sunday | 5:03 PM",
+        "description": "Eligos | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 8:00 PM",
+        "description": "Vayu | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 20,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Sunday | 8:03 PM",
+        "description": "Vayu | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 10:00 PM",
+        "description": "Eligos | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Sunday | 10:03 PM",
+        "description": "Eligos | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 12:00 PM",
+        "description": "Kotonoha | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Monday | 12:03 PM",
+        "description": "Kotonoha | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 5:00 PM",
+        "description": "Kotonoha | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Monday | 5:03 PM",
+        "description": "Kotonoha | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 10:00 PM",
+        "description": "Kotonoha | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Monday | 10:03 PM",
+        "description": "Kotonoha | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 1:00 AM",
+        "description": "Quelkulan | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 1,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Tuesday | 1:03 AM",
+        "description": "Quelkulan | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 12:00 PM",
+        "description": "Aelius | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Tuesday | 12:03 PM",
+        "description": "Aelius | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 3:00 PM",
+        "description": "Quelkulan | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 15,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Tuesday | 3:03 PM",
+        "description": "Quelkulan | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 5:00 PM",
+        "description": "Aelius | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Tuesday | 5:03 PM",
+        "description": "Aelius | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 8:00 PM",
+        "description": "Quelkulan | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 20,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Tuesday | 8:03 PM",
+        "description": "Quelkulan | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 10:00 PM",
+        "description": "Aelius | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Tuesday | 10:03 PM",
+        "description": "Aelius | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 12:00 PM",
+        "description": "Bel-Chandra | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Wednesday | 12:03 PM",
+        "description": "Bel-Chandra | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 5:00 PM",
+        "description": "Bel-Chandra | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Wednesday | 5:03 PM",
+        "description": "Bel-Chandra | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 10:00 PM",
+        "description": "Bel-Chandra | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Wednesday | 10:03 PM",
+        "description": "Bel-Chandra | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 1:00 AM",
+        "description": "Yarnaros | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 1,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Thursday | 1:03 AM",
+        "description": "Yarnaros | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:00 PM",
+        "description": "Gigas | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:03 PM",
+        "description": "Gigas | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 3:00 PM",
+        "description": "Yarnaros | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 15,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Thursday | 3:03 PM",
+        "description": "Yarnaros | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 5:00 PM",
+        "description": "Gigas | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Thursday | 5:03 PM",
+        "description": "Gigas | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 8:00 PM",
+        "description": "Yarnaros | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 20,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Thursday | 8:03 PM",
+        "description": "Yarnaros | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 10:00 PM",
+        "description": "Gigas | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Thursday | 10:03 PM",
+        "description": "Gigas | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 1:00 AM",
+        "description": "Bahadur | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 1,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Friday | 1:03 AM",
+        "description": "Bahadur | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 12:00 PM",
+        "description": "Sigrun | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Friday | 12:03 PM",
+        "description": "Sigrun | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 3:00 PM",
+        "description": "Bahadur | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 15,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Friday | 3:03 PM",
+        "description": "Bahadur | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 5:00 PM",
+        "description": "Sigrun | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Friday | 5:03 PM",
+        "description": "Sigrun | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 8:00 PM",
+        "description": "Bahadur | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 20,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Friday | 8:03 PM",
+        "description": "Bahadur | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 10:00 PM",
+        "description": "Sigrun | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Friday | 10:03 PM",
+        "description": "Sigrun | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 1:00 AM",
+        "description": "Tigerius Caesar | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 1,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Saturday | 1:03 AM",
+        "description": "Tigerius Caesar | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 12:00 PM",
+        "description": "Uzuriel | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 12,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Saturday | 12:03 PM",
+        "description": "Uzuriel | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 3:00 PM",
+        "description": "Tigerius Caesar | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 15,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Saturday | 3:03 PM",
+        "description": "Tigerius Caesar | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 5:00 PM",
+        "description": "Uzuriel | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 17,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Saturday | 5:03 PM",
+        "description": "Uzuriel | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 8:00 PM",
+        "description": "Tigerius Caesar | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 20,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Saturday | 8:03 PM",
+        "description": "Tigerius Caesar | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 10:00 PM",
+        "description": "Uzuriel | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 22,
+        "timerMin": 3,
+        "listDesign": "",
+        "fullTime": "Saturday | 10:03 PM",
+        "description": "Uzuriel | End"
+      }
+    ]
+  },
+  "cardAPI": {
+    "cardrangers": [
+      {
+        "timerDay": 0,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 5:00 PM",
+        "description": "All Rangers | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 7:00 PM",
+        "description": "All Rangers | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 9:00 PM",
+        "description": "All Rangers | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 11:00 PM",
+        "description": "All Rangers | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 1:00 AM",
+        "description": "Red Ranger | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 3,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 3:00 AM",
+        "description": "Red Ranger | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 12:00 PM",
+        "description": "Red Ranger | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 2:00 PM",
+        "description": "Red Ranger | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 5:00 PM",
+        "description": "Red Ranger | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 7:00 PM",
+        "description": "Red Ranger | End"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 9:00 PM",
+        "description": "Red Ranger | Start"
+      },
+      {
+        "timerDay": 1,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Monday | 11:00 PM",
+        "description": "Red Ranger | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 1:00 AM",
+        "description": "Black Ranger | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 3,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 3:00 AM",
+        "description": "Black Ranger | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 12:00 PM",
+        "description": "Black Ranger | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 2:00 PM",
+        "description": "Black Ranger | End"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 5:00 PM",
+        "description": "Black Ranger | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 7:00 PM",
+        "description": "Black Ranger | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 9:00 PM",
+        "description": "Black Ranger | Start"
+      },
+      {
+        "timerDay": 2,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Tuesday | 11:00 PM",
+        "description": "Black Ranger | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 1:00 AM",
+        "description": "Blue Ranger | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 3,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 3:00 AM",
+        "description": "Blue Ranger | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 12:00 PM",
+        "description": "Blue Ranger | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 2:00 PM",
+        "description": "Blue Ranger | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 5:00 PM",
+        "description": "Blue Ranger | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 7:00 PM",
+        "description": "Blue Ranger | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 9:00 PM",
+        "description": "Blue Ranger | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 11:00 PM",
+        "description": "Black Ranger | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 1:00 AM",
+        "description": "Yellow Ranger | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 3,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 3:00 AM",
+        "description": "Yellow Ranger | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:00 PM",
+        "description": "Yellow Ranger | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 2:00 PM",
+        "description": "Yellow Ranger | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 5:00 PM",
+        "description": "Yellow Ranger | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 7:00 PM",
+        "description": "Yellow Ranger | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 9:00 PM",
+        "description": "Yellow Ranger | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 11:00 PM",
+        "description": "Yellow Ranger | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 1,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 1:00 AM",
+        "description": "Pink Ranger | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 3,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 3:00 AM",
+        "description": "Pink Ranger | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 12:00 PM",
+        "description": "Pink Ranger | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 2:00 PM",
+        "description": "Pink Ranger | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 5:00 PM",
+        "description": "Pink Ranger | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 7:00 PM",
+        "description": "Pink Ranger | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 9:00 PM",
+        "description": "Pink Ranger | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 11:00 PM",
+        "description": "Pink Ranger | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 5:00 PM",
+        "description": "All Rangers | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 19,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 7:00 PM",
+        "description": "All Rangers | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 21,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 9:00 PM",
+        "description": "All Rangers | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 23,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 11:00 PM",
+        "description": "All Rangers | End"
+      }
+    ]
+  },
+  "raidAPI": {
+    "raid": [
+      {
+        "timerDay": 0,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Sunday | 10:00 AM",
+        "description": "Sky Tower Group 1 - 30 | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Sunday | 12:00 PM",
+        "description": "Sky Tower Group 1 - 30 | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Sunday | 3:00 PM",
+        "description": "Sky Tower Group 6 - 10 | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Sunday | 5:00 PM",
+        "description": "Sky Tower Group 6 - 10 | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Sunday | 8:00 PM",
+        "description": "Sky Tower Group 11 - 15 | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Sunday | 10:00 PM",
+        "description": "Sky Tower Group 11 - 15 | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 10:00 AM",
+        "description": "Sky Realm Group 1 - 5 | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Thursday | 12:00 PM",
+        "description": "Sky Realm Group 1 - 5 | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Thursday | 3:00 PM",
+        "description": "Sky Realm Group 6 - 10 | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Thursday | 5:00 PM",
+        "description": "Sky Realm Group 6 - 10 | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Thursday | 8:00 PM",
+        "description": "Sky Realm Group 11 - 15 | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Thursday | 10:00 PM",
+        "description": "Sky Realm Group 11 - 15 | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 7,
+        "timerMin": 41,
+        "listDesign": "placeholder",
+        "fullTime": "Friday | 10:00 AM",
+        "description": "Elite Sky Tower Group 1 - 30 | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Friday | 12:00 PM",
+        "description": "Elite Sky Tower Group 1 - 30 | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Friday | 3:00 PM",
+        "description": "Elite Sky Tower Group 31 - 60 | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Friday | 5:00 PM",
+        "description": "Elite Sky Tower Group 31 - 60 | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Friday | 8:00 PM",
+        "description": "| Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Friday | 10:00 PM",
+        "description": "Elite Sky Tower Group 61 - 90 | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Saturday | 10:00 AM",
+        "description": "Sky Tower Group 1 - 30 | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Saturday | 12:00 PM",
+        "description": "Sky Tower Group 1 - 30 | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 15,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Saturday | 3:00 PM",
+        "description": "Sky Tower Group 6 - 10 | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 17,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Saturday | 5:00 PM",
+        "description": "Sky Tower Group 6 - 10 | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Saturday | 8:00 PM",
+        "description": "Sky Tower Group 11 - 15 | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "placeholder",
+        "fullTime": "Saturday | 10:00 PM",
+        "description": "Sky Tower Group 11 - 15 | End"
+      }
+    ]
+  },
+  "worldbossAPI": {
+    "worldboss": [
+      {
+        "timerDay": 0,
+        "timerHour": 0,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 12:00 AM",
+        "description": "Mordecai | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 0,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 12:10 AM",
+        "description": "Mordecai | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 2,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 2:00 AM",
+        "description": "Abenthy | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 2,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 2:10 AM",
+        "description": "Abenthy | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 4,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 4:00 AM",
+        "description": "Mordecai | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 4,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 4:10 AM",
+        "description": "Mordecai | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 6,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 6:00 AM",
+        "description": "Abenthy | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 6,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 6:10 AM",
+        "description": "Abenthy | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 8,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 8:00 AM",
+        "description": "Mordecai | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 8,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 8:10 AM",
+        "description": "Mordecai | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 10:00 AM",
+        "description": "Abenthy | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 10,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 10:10 AM",
+        "description": "Abenthy | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 12:00 PM",
+        "description": "Mordecai | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 12,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 12:10 PM",
+        "description": "Mordecai | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 2:00 PM",
+        "description": "Abenthy | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 14,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 2:10 PM",
+        "description": "Abenthy | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 16,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 4:00 PM",
+        "description": "Mordecai | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 16,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 4:10 PM",
+        "description": "Mordecai | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 18,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 6:00 PM",
+        "description": "Abenthy | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 18,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 6:10 PM",
+        "description": "Abenthy | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 8:00 PM",
+        "description": "Mordecai | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 20,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 8:10 PM",
+        "description": "Mordecai | End"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Sunday | 10:00 PM",
+        "description": "Abenthy | Start"
+      },
+      {
+        "timerDay": 0,
+        "timerHour": 22,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Sunday | 10:10 PM",
+        "description": "Abenthy | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 2,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 2:00 AM",
+        "description": "Elbiolo | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 2,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Wednesday | 2:10 AM",
+        "description": "Elbiolo | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 6,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 6:00 AM",
+        "description": "Elbiolo | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 6,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Wednesday | 6:10 AM",
+        "description": "Elbiolo | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 10:00 AM",
+        "description": "Elbiolo | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 10,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Wednesday | 10:10 AM",
+        "description": "Elbiolo | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 2:00 PM",
+        "description": "Elbiolo | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 14,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Wednesday | 2:10 PM",
+        "description": "Elbiolo | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 18,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 6:00 PM",
+        "description": "Elbiolo | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 18,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Wednesday | 6:10 PM",
+        "description": "Elbiolo | End"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Wednesday | 10:00 PM",
+        "description": "Elbiolo | Start"
+      },
+      {
+        "timerDay": 3,
+        "timerHour": 22,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Wednesday | 10:10 PM",
+        "description": "Elbiolo | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 0,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:00 AM",
+        "description": "Mac | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 0,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:10 AM",
+        "description": "Mac | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 4,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 4:00 AM",
+        "description": "Mac | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 4,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Thursday | 4:10 AM",
+        "description": "Mac | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 8,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 8:00 AM",
+        "description": "Mac | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 8,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Thursday | 8:10 AM",
+        "description": "Mac | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:00 PM",
+        "description": "Mac | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 12,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Thursday | 12:10 PM",
+        "description": "Mac | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 16,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 4:00 PM",
+        "description": "Mac | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 16,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Thursday | 4:10 PM",
+        "description": "Mac | End"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Thursday | 8:00 PM",
+        "description": "Mac | Start"
+      },
+      {
+        "timerDay": 4,
+        "timerHour": 20,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Thursday | 8:10 PM",
+        "description": "Mac | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 0,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 12:00 AM",
+        "description": "Banksy | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 0,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 12:10 AM",
+        "description": "Banksy | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 2,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 2:00 AM",
+        "description": "Mechium | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 2,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 2:10 AM",
+        "description": "Mechium | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 4,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 4:00 AM",
+        "description": "Banksy | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 4,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 4:10 AM",
+        "description": "Banksy | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 6,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 6:00 AM",
+        "description": "Mechium | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 6,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 6:10 AM",
+        "description": "Mechium | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 8,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 8:00 AM",
+        "description": "Banksy | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 8,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 8:10 AM",
+        "description": "Banksy | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 10:00 AM",
+        "description": "Mechium | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 10,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 10:10 AM",
+        "description": "Mechium | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 12:00 PM",
+        "description": "Banksy | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 12,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 12:10 PM",
+        "description": "Banksy | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 2:00 PM",
+        "description": "Mechium | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 14,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 2:10 PM",
+        "description": "Mechium | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 16,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 4:00 PM",
+        "description": "Banksy | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 16,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 4:10 PM",
+        "description": "Banksy | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 18,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 6:00 PM",
+        "description": "Mechium | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 18,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 6:10 PM",
+        "description": "Mechium | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 8:00 PM",
+        "description": "Banksy | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 20,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 8:10 PM",
+        "description": "Banksy | End"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Friday | 10:00 PM",
+        "description": "Mechium | Start"
+      },
+      {
+        "timerDay": 5,
+        "timerHour": 22,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Friday | 10:10 PM",
+        "description": "Mechium | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 0,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 12:00 AM",
+        "description": "Daphne | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 0,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 12:10 AM",
+        "description": "Daphne | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 2,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 2:00 AM",
+        "description": "Kalishia | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 2,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 2:10 AM",
+        "description": "Kalishia | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 4,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 4:00 AM",
+        "description": "Daphne | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 4,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 4:10 AM",
+        "description": "Daphne | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 6,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 6:00 AM",
+        "description": "Kalishia | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 6,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 6:10 AM",
+        "description": "Kalishia | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 8,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 8:00 AM",
+        "description": "Daphne | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 8,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 8:10 AM",
+        "description": "Daphne | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 10,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 10:00 AM",
+        "description": "Kalishia | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 10,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 10:10 AM",
+        "description": "Kalishia | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 12,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 12:00 PM",
+        "description": "Daphne | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 12,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 12:10 PM",
+        "description": "Daphne | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 14,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 2:00 PM",
+        "description": "Kalishia | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 14,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 2:10 PM",
+        "description": "Kalishia | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 16,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 4:00 PM",
+        "description": "Daphne | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 16,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 4:10 PM",
+        "description": "Daphne | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 18,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 6:00 PM",
+        "description": "Kalishia | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 18,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 6:10 PM",
+        "description": "Kalishia | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 20,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 8:00 PM",
+        "description": "Daphne | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 20,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 8:10 PM",
+        "description": "Daphne | End"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 22,
+        "timerMin": 0,
+        "listDesign": "",
+        "fullTime": "Saturday | 10:00 PM",
+        "description": "Kalishia | Start"
+      },
+      {
+        "timerDay": 6,
+        "timerHour": 22,
+        "timerMin": 10,
+        "listDesign": "",
+        "fullTime": "Saturday | 10:10 PM",
+        "description": "Kalishia | End"
+      }
+    ]
+  },
+  "diggingAPI": {
+    "archaeology": [
+      {
+        "timerHour": 0,
+        "timerDay": 0,
+        "timerMin": 0,
+        "fullTime": "Sunday | 12:00 AM - 11:59 PM",
+        "description": "Archaeology Schedule | Monday",
+        "locations": [
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          },
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          }
+        ]
+      },
+      {
+        "timerHour": 0,
+        "timerDay": 1,
+        "timerMin": 0,
+        "fullTime": "Monday | 12:00 AM - 11:59 PM",
+        "description": "Archaeology Schedule | Monday",
+        "locations": [
+          {
+            "map": "Port Skandia",
+            "coordinates": "X:294, Y:674",
+            "artifact": "Buried Energized Crystal",
+            "blue": "Slighty Damaged Energized Crystal",
+            "red": "Top-Quality Energized Crystal",
+            "yellow": "Well Preserved Energized Crystal",
+            "best": "Top-Quality Energized Crystal",
+            "best-colour": "Red"
+          },
+          {
+            "map": "Crescent Hill",
+            "coordinates": "X:297, Y:792",
+            "artifact": "Buried Handcrafted Relic",
+            "blue": "Well Preserved Handcrafted Relic",
+            "red": "Slighty Damaged Handcrafted Relic",
+            "yellow": "Top-Quality Handcrafted Relic",
+            "best": "Top-Quality Handcrafted Relic",
+            "best-colour": "Yellow"
+          },
+          {
+            "map": "Cactakara Forest",
+            "coordinates": "X:569, Y:518",
+            "artifact": "Buried Chinaware",
+            "blue": "Well Preserved Chinaware",
+            "red": "Top-Quality Handcrafted Relic",
+            "yellow": "Slightly Damaged Chinaware",
+            "best": "Top-Quality Handcrafted Relic",
+            "best-colour": "Red"
+          },
+          {
+            "map": "Candeo Marsh",
+            "coordinates": "X:373, Y:168",
+            "artifact": "Buried Treasure",
+            "blue": "Top-Quality Treasure",
+            "red": "Well Preserved Treasure",
+            "yellow": "Slighty Damaged Treasure",
+            "best": "Top-Quality Treasure",
+            "best-colour": "Blue"
+          },
+          {
+            "map": "Blizzard Berg",
+            "coordinates": "X:661, Y:372",
+            "artifact": "Buried Animal Bones",
+            "blue": "Well Preserved Animal Bones",
+            "red": "Top-Quality Animal Bones",
+            "yellow": "Slighty Damaged Animal Bones",
+            "best": "Top-Quality Animal Bones",
+            "best-colour": "Red"
+          },
+          {
+            "map": "Emerald Marsh",
+            "coordinates": "X:382, Y:341",
+            "artifact": "Buried Mutant Remains",
+            "blue": "Well Preserved Mutant Remains",
+            "red": "Top-Quality Mutant Remains",
+            "yellow": "Slightly Damaged Mutant Remains",
+            "best": "Top-Quality Mutant Remains",
+            "best-colour": "Red"
+          },
+          {
+            "map": "Starstruck Plateau",
+            "coordinates": "X:538, Y:485",
+            "artifact": "Primitive Tool",
+            "blue": "Flawless Primitive Tool",
+            "red": "Fine Primitive Tool",
+            "yellow": "Slightly Damaged Primitive Tool",
+            "best": "Flawless Primitive Tool",
+            "best-colour": "Blue"
+          },
+          {
+            "map": "Port Morton",
+            "coordinates": "X:300, Y: 485",
+            "artifact": "Sea Monster Limb",
+            "blue": "Flawed Sea Monster Limb",
+            "red": "Flawless Sea Monster Limb",
+            "yellow": "Fine Sea Monster Limb",
+            "best": "Flawless Sea Monster Limb",
+            "best-colour": ""
+          },
+          {
+            "map": "Desolate Valley",
+            "coordinates": "X:455, Y:571",
+            "artifact": "Mystic Sphere",
+            "blue": "Flawed Magic Orb",
+            "red": "Flawless Magic Orb",
+            "yellow": "Fine Magic Orb",
+            "best": "Flawless Magic Orb",
+            "best-colour": "Red"
+          },
+          {
+            "map": "Tempest Desert",
+            "coordinates": "X:510, Y:140",
+            "artifact": "Pagoda",
+            "blue": "Flawless Pagoda",
+            "red": "Fine Pagoda",
+            "yellow": "Flawed Pagoda",
+            "best": "Flawless Pagoda",
+            "best-colour": "Blue"
+          },
+          {
+            "map": "Frigga Peak",
+            "coordinates": "X:419, Y:448",
+            "artifact": "Buried Mutant Remains",
+            "blue": "Well Preserved Mutant Remains",
+            "red": "Top-Quality Mutant Remains",
+            "yellow": "Slightly Damaged Mutant Remains",
+            "best": "Top-Quality Mutant Remains",
+            "best-colour": "Red"
+          }
+        ]
+      },
+      {
+        "timerHour": 0,
+        "timerDay": 2,
+        "timerMin": 0,
+        "fullTime": " | 12:00 AM - 11:59 PM",
+        "description": "Archaeology Schedule | ",
+        "locations": [
+          {
+            "map": "",
+            "coordinates": "",
+            "artifact": "",
+            "blue": "",
+            "red": "",
+            "yellow": "",
+            "best": "",
+            "best-colour": ""
+          }
+        ]
+      }
+    ]
+  }
+}
